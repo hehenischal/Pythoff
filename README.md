@@ -25,6 +25,13 @@ When you are finally done with debloating the language you can delete the delete
 ```python
 delete delete
 ```
+## Function Overloading 
+Overloading a function was missing in Python, we are introducing the  ` lizzo ` keyword. use this keyword to decorate any function to overload it. 
+```
+@lizzo
+def greet(name):
+  print("this is a overloaded function")
+```
 ## Installing RAM 
 We at Pyth-off understand that Training AI models and AI girlfriend Chat Bots can hog as much ram as you hog lust. So, we are introducing a feature of installing more ram. By paying just $89.99 every month, you get access 1TB RAM (total) for a Year that resets every year at February 32nd. 
 
