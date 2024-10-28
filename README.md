@@ -1,5 +1,17 @@
 # Pythoff
 Pyth-off: The Python You Deserve 🐍 A new evolution in Python programming, delivering innovative features, refined syntax, and enhancements you never knew you needed. Pyth-off sets a new standard for clarity, efficiency, and developer happiness. Because sometimes, you just need to do things differently.
+## simpler imports 
+We support wildcard imports in pythoff. 
+```
+from * import *
+```
+you can also install every single python package ever released:
+```
+pip install *
+```
+## Nepal Package 
+If you are using pythoff from nepal, you need to randomly scatter some amounts of $$$ here are there as a form of **[redacted]**
+
 
 ## Adding a New Datatype
 We have introduced a new datatype for D&D fans called a 'Unicorn'. It can have a magic value like a potion or spells. 
